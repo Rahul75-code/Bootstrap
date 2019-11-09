@@ -1,0 +1,14 @@
+body{
+    background-image: url(bg2.jpg);
+    background-position: top;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.buton{    
+        background-color: transparent;
+        background-repeat:no-repeat;
+        border: none;
+        cursor:pointer;
+        overflow: hidden;        
+    
+}
